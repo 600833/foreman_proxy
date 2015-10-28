@@ -1,0 +1,4 @@
+---
+# Pulp integration
+:enabled: https
+:pulp_url: https://pulp.ivq.tcs/pulp
